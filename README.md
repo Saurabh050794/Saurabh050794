@@ -144,7 +144,7 @@ Taught Mathematics and Pedagogy of Mathematics to diploma-level teacher trainees
 | ![CTET](https://img.shields.io/badge/CTET-1A73E8?style=flat-square&logo=google-scholar&logoColor=white) | CBSE | ✅ Qualified |
 | ![UPTET](https://img.shields.io/badge/UPTET-0052CC?style=flat-square&logo=google-scholar&logoColor=white) | UP Govt. | ✅ Qualified |
 | ![CCC](https://img.shields.io/badge/CCC%20—%20Computer%20Concepts-217346?style=flat-square&logo=microsoft&logoColor=white) | NIELIT | ✅ Certified |
-| ![DOAP](https://img.shields.io/badge/DOAP%20—%20Office%20Automation-D83B01?style=flat-square&logo=microsoft-office&logoColor=white) | NIELIT | ✅ Certified |
+| ![DOAP](https://img.shields.io/badge/DOAP%20—%20Office%20Automation-D83B01?style=flat-square&logo=microsoft-office&logoColor=white) | RGCSM | ✅ Certified |
 
 </div>
 
