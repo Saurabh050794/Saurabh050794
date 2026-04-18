@@ -140,7 +140,7 @@ Taught Mathematics and Pedagogy of Mathematics to diploma-level teacher trainees
 
 | 🎓 Certification | 🏛️ Issuer | 📅 Status |
 |---|---|---|
-| ![GATE](https://img.shields.io/badge/GATE%202024%20—%20Mathematics-FF6B00?style=flat-square&logo=google-scholar&logoColor=white) | IIT/NIT | ✅ Qualified |
+| ![GATE](https://img.shields.io/badge/GATE%202024%20—%20Mathematics-FF6B00?style=flat-square&logo=google-scholar&logoColor=white) | IIT/IISC | ✅ Qualified |
 | ![CTET](https://img.shields.io/badge/CTET-1A73E8?style=flat-square&logo=google-scholar&logoColor=white) | CBSE | ✅ Qualified |
 | ![UPTET](https://img.shields.io/badge/UPTET-0052CC?style=flat-square&logo=google-scholar&logoColor=white) | UP Govt. | ✅ Qualified |
 | ![CCC](https://img.shields.io/badge/CCC%20—%20Computer%20Concepts-217346?style=flat-square&logo=microsoft&logoColor=white) | NIELIT | ✅ Certified |
