@@ -21,19 +21,19 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
-🎓 **M.Tech Computing & Mathematics** — IIT Palakkad *(2024 – Present)*
+ **M.Tech Computing & Mathematics** — IIT Palakkad *(2024 – 2026)*
 
-💼 **Role:** Data Analyst | Business Analyst
+ **Role:** Data Analyst | Business Analyst
 
-📍 **Location:** Pilibhit, Uttar Pradesh, India
+ **Location:** Pilibhit, Uttar Pradesh, India
 
-🏆 **GATE 2024** Qualified — Mathematics
+ **GATE 2024** Qualified — Mathematics
 
-🔬 **Research:** Fair Division of Indivisible Goods — Graph Theory & Algorithms
+ **Research:** Fair Division of Indivisible Goods — Graph Theory & Algorithms
 
-💡 **Superpower:** Translating complex datasets into actionable business insights
+ **Superpower:** Translating complex datasets into actionable business insights
 
 <br/>
 
@@ -101,7 +101,7 @@ Investigating algorithmic fairness models at the intersection of **Mathematics, 
 
 | 🏛️ Institution | 📚 Degree | 📅 Year |
 |---|---|---|
-| **IIT Palakkad** | M.Tech in Computing & Mathematics | 2024 – Present |
+| **IIT Palakkad** | M.Tech in Computing & Mathematics | 2024 – 2026 |
 | MJP Rohilkhand University | M.Sc. in Mathematics | 2016 |
 | MJP Rohilkhand University | B.Ed. | 2015 |
 | MJP Rohilkhand University | B.Sc. in Mathematics & Physics | 2013 |
@@ -143,11 +143,11 @@ Taught Mathematics and Pedagogy of Mathematics to diploma-level teacher trainees
 
 | 🎓 Certification | 🏛️ Issuer | 📅 Status |
 |---|---|---|
-| ![GATE](https://img.shields.io/badge/GATE%202024%20—%20Mathematics-0d1117?style=flat-square&logo=google-scholar&logoColor=58a6ff) | IIT/NIT | ✅ Qualified |
+| ![GATE](https://img.shields.io/badge/GATE%202024%20—%20Mathematics-0d1117?style=flat-square&logo=google-scholar&logoColor=58a6ff) | IIT/IISC | ✅ Qualified |
 | ![CTET](https://img.shields.io/badge/CTET-0d1117?style=flat-square&logo=google-scholar&logoColor=58a6ff) | CBSE | ✅ Qualified |
 | ![UPTET](https://img.shields.io/badge/UPTET-0d1117?style=flat-square&logo=google-scholar&logoColor=58a6ff) | UP Govt. | ✅ Qualified |
 | ![CCC](https://img.shields.io/badge/CCC%20—%20Computer%20Concepts-0d1117?style=flat-square&logo=microsoft&logoColor=58a6ff) | NIELIT | ✅ Certified |
-| ![DOAP](https://img.shields.io/badge/DOAP%20—%20Office%20Automation-0d1117?style=flat-square&logo=microsoft-office&logoColor=58a6ff) | NIELIT | ✅ Certified |
+| ![DOAP](https://img.shields.io/badge/DOAP%20—%20Office%20Automation-0d1117?style=flat-square&logo=microsoft-office&logoColor=58a6ff) | RGCSM | ✅ Certified |
 
 </div>
 
