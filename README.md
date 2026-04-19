@@ -1,4 +1,4 @@
-#<div align="center">
+<div align="center">
 
 <!-- Profile Banner PNG -->
 <img width="100%" src="./bnr.png" alt="Saurabh Kumar - Data Analyst | Business Analyst | Power BI Developer" />
