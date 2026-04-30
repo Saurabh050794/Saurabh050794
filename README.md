@@ -83,7 +83,7 @@ Results-driven analyst with a strong mathematical foundation and hands-on experi
 
 <div align="center">
 
-**M.Tech Thesis — IIT Palakkad (2024–Present)**
+**M.Tech Thesis — IIT Palakkad (2024–2026)**
 
 ### Fair Division of Indivisible Goods under Graph-based Envy Constraints
 
